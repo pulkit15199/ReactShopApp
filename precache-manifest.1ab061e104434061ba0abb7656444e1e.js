@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/ReactShopApp/static/js/runtime~main.f221c984.js"
   },
   {
-    "revision": "cee2147a41785306bc33",
-    "url": "/ReactShopApp/static/js/main.cee2147a.chunk.js"
+    "revision": "3fc92a12645eae1b28e2",
+    "url": "/ReactShopApp/static/js/main.3fc92a12.chunk.js"
   },
   {
     "revision": "7e17cbc998b4b32adcdb",
     "url": "/ReactShopApp/static/js/1.7e17cbc9.chunk.js"
   },
   {
-    "revision": "cee2147a41785306bc33",
+    "revision": "3fc92a12645eae1b28e2",
     "url": "/ReactShopApp/static/css/main.c4578fa6.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ReactShopApp/static/css/1.90d44d13.chunk.css"
   },
   {
-    "revision": "d06b705bc8d2948e9666049ed464b1b1",
+    "revision": "d825724728c45373366de5d679dd6b14",
     "url": "/ReactShopApp/index.html"
   }
 ];
