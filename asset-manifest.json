@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.c4578fa6.chunk.css",
-  "main.js": "/static/js/main.4f6b348c.chunk.js",
-  "main.js.map": "/static/js/main.4f6b348c.chunk.js.map",
-  "static/css/1.90d44d13.chunk.css": "/static/css/1.90d44d13.chunk.css",
-  "static/js/1.0c6f7877.chunk.js": "/static/js/1.0c6f7877.chunk.js",
-  "static/js/1.0c6f7877.chunk.js.map": "/static/js/1.0c6f7877.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.90d44d13.chunk.css.map": "/static/css/1.90d44d13.chunk.css.map",
-  "static/css/main.c4578fa6.chunk.css.map": "/static/css/main.c4578fa6.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.7b40d9ab4dce0b09034fb4da0761b92e.js": "/precache-manifest.7b40d9ab4dce0b09034fb4da0761b92e.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ReactShopApp/static/css/main.c4578fa6.chunk.css",
+  "main.js": "/ReactShopApp/static/js/main.cee2147a.chunk.js",
+  "main.js.map": "/ReactShopApp/static/js/main.cee2147a.chunk.js.map",
+  "static/css/1.90d44d13.chunk.css": "/ReactShopApp/static/css/1.90d44d13.chunk.css",
+  "static/js/1.7e17cbc9.chunk.js": "/ReactShopApp/static/js/1.7e17cbc9.chunk.js",
+  "static/js/1.7e17cbc9.chunk.js.map": "/ReactShopApp/static/js/1.7e17cbc9.chunk.js.map",
+  "runtime~main.js": "/ReactShopApp/static/js/runtime~main.f221c984.js",
+  "runtime~main.js.map": "/ReactShopApp/static/js/runtime~main.f221c984.js.map",
+  "static/css/1.90d44d13.chunk.css.map": "/ReactShopApp/static/css/1.90d44d13.chunk.css.map",
+  "static/css/main.c4578fa6.chunk.css.map": "/ReactShopApp/static/css/main.c4578fa6.chunk.css.map",
+  "index.html": "/ReactShopApp/index.html",
+  "precache-manifest.9ada642a6dd6d8d025348e7ebba9cabe.js": "/ReactShopApp/precache-manifest.9ada642a6dd6d8d025348e7ebba9cabe.js",
+  "service-worker.js": "/ReactShopApp/service-worker.js"
 }
